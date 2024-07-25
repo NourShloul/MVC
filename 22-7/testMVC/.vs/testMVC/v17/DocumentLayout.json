@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\mvc\\22-7\\testmvc\\testmvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testmvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testmvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|c:\\users\\orange\\desktop\\c#_tasks\\testmvc\\testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CBED744-358D-4371-88B4-30B800A2488E}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +34,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Home\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Register.cshtml",
               "RelativeToolTip": "testMVC\\Views\\Home\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T14:55:30.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:55:30.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "testMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAA+AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T14:54:29.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "testMVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -77,42 +76,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "testMVC\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAABwAAAAAAAAAAAAuwDoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T14:53:04.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:53:04.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Services.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Home\\Services.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Views\\Home\\Services.cshtml",
               "RelativeToolTip": "testMVC\\Views\\Home\\Services.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwCAAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T14:52:40.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "testMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\testMVC\\testMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\22-7\\testMVC\\testMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "testMVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:39:12.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:39:12.269Z"
             }
           ]
         }
