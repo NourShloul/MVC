@@ -14,13 +14,13 @@ namespace task3.Controllers
             ("user2", "password2"),
         };
 
-        // GET: Login/LoginPage
+        // GET: Login/Login
         public ActionResult Login()
         {
             return View();
         }
 
-        // POST: Login/LoginPage
+        // POST: Login/Login
         [HttpPost]
         public ActionResult Login(string username, string password)
         {
