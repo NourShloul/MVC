@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|c:\\users\\orange\\desktop\\c#_tasks\\sundaypractice287\\sundaypractice287\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\models\\user.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundaypractice287\\models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0041B0D6-6044-4693-A568-C7BC636B4966}|sundayPractice287\\sundayPractice287.csproj|solutionrelative:sundaypractice287\\models\\user.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "sundayPractice287\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "sundayPractice287\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:24:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "sundayPractice287\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "sundayPractice287\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:18:02.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Models\\User.Context.cs",
+              "RelativeDocumentMoniker": "sundayPractice287\\Models\\User.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Models\\User.Context.cs",
+              "RelativeToolTip": "sundayPractice287\\Models\\User.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:14:21.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sundayPractice287\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "sundayPractice287\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:22:27.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "sundayPractice287\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "sundayPractice287\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T10:31:08.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "sundayPractice287\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "sundayPractice287\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:11:54.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "sundayPractice287\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "sundayPractice287\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T10:11:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "sundayPractice287\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Controllers\\UserController.cs",
+              "RelativeToolTip": "sundayPractice287\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:22:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Models\\User.edmx",
+              "RelativeDocumentMoniker": "sundayPractice287\\Models\\User.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\C#_Tasks\\sundayPractice287\\sundayPractice287\\Models\\User.edmx [Diagram1]",
+              "RelativeToolTip": "sundayPractice287\\Models\\User.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T09:21:44.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
