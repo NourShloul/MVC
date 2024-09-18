@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\migrations\\202409180711347_addemailtostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\migrations\\202409180711347_addemailtostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\migrations\\202409180708281_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\migrations\\202409180708281_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|c:\\users\\orange\\desktop\\mvc\\task18_9\\task18_9\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CD8035-20A6-4F7C-A4DA-39FF4455D6A5}|task18_9\\task18_9.csproj|solutionrelative:task18_9\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202409180711347_AddEmailToStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\202409180711347_AddEmailToStudent.cs",
+              "RelativeDocumentMoniker": "task18_9\\Migrations\\202409180711347_AddEmailToStudent.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\202409180711347_AddEmailToStudent.cs",
+              "RelativeToolTip": "task18_9\\Migrations\\202409180711347_AddEmailToStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:11:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202409180708281_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\202409180708281_InitialCreate.cs",
+              "RelativeDocumentMoniker": "task18_9\\Migrations\\202409180708281_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\202409180708281_InitialCreate.cs",
+              "RelativeToolTip": "task18_9\\Migrations\\202409180708281_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:08:32.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "task18_9\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "task18_9\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:08:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Web.config",
+              "RelativeDocumentMoniker": "task18_9\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Web.config",
+              "RelativeToolTip": "task18_9\\Web.config",
+              "ViewState": "AQIAADYAAACASgN/8/YjwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T04:17:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "task18_9\\Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "task18_9\\Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:12:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "task18_9\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Assignment.cs",
+              "RelativeToolTip": "task18_9\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:59:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "task18_9\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Teacher.cs",
+              "RelativeToolTip": "task18_9\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:58:18.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "task18_9\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\task18_9\\task18_9\\Models\\Student.cs",
+              "RelativeToolTip": "task18_9\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:56:27.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
