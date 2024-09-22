@@ -1,0 +1,41 @@
+﻿@model MiniSchool.Models.Assignment
+
+@{
+    ViewBag.Title = "Assignment Details";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Assignment Details</h2>
+
+    <div class="card shadow-sm p-4">
+        <h4 class="card-title">Assignment Information</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Class.ClassName)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Class.ClassName)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.DueDate)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.DueDate)
+            </dd>
+        </dl>
+
+        <div class="mt-4">
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning" }) |
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+</div>

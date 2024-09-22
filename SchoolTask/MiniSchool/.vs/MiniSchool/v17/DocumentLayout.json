@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\assignments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\assignments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\assignments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\classes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\classes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\classes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\minischool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\minischool\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\views\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\minischoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\minischoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\minischoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\migrations\\202409212356558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\202409212356558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|c:\\users\\orange\\desktop\\mvc\\schooltask\\minischool\\minischool\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0724BFCC-AEA3-45A9-9AB1-D0297A2043D0}|MiniSchool\\MiniSchool.csproj|solutionrelative:minischool\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwC0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:11:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Delete.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Delete.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:10:38.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Details.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Details.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:09:55.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Edit.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Edit.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:08:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Assignments\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:03:47.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Create.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Create.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:02:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Delete.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:01:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Details.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:00:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Edit.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T01:00:20.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Classes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Classes\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Classes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:59:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:57:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:56:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:56:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:55:52.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Subjects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Subjects\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:52:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Subjects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Subjects\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:52:04.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\MiniSchool\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\MiniSchool\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\MiniSchool\\Index.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\MiniSchool\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:35:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:25:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Subjects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Details.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Subjects\\Details.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:51:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Subjects\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Delete.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Subjects\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:50:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Subjects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Subjects\\Create.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Subjects\\Create.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:49:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniSchool\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "MiniSchool\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T00:43:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:07:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MiniSchoolController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\MiniSchoolController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\MiniSchoolController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\MiniSchoolController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\MiniSchoolController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:05:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:03:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:03:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:02:01.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "MiniSchool\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:00:49.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202409212356558_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Migrations\\202409212356558_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\202409212356558_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Migrations\\202409212356558_InitialCreate.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\202409212356558_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:57:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MiniSchool\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:56:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Web.config",
+              "RelativeDocumentMoniker": "MiniSchool\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Web.config",
+              "RelativeToolTip": "MiniSchool\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAawEQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T23:50:43.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MiniSchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\MiniSchoolContext.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\MiniSchoolContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\MiniSchoolContext.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\MiniSchoolContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:44:25.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Assignment.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:42:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Classes.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Classes.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:40:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Student.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:38:52.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\Subject.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:36:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MiniSchool\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\SchoolTask\\MiniSchool\\MiniSchool\\Models\\User.cs",
+              "RelativeToolTip": "MiniSchool\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:32:48.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

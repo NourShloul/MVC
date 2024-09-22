@@ -1,0 +1,68 @@
+﻿@model MiniSchool.Models.Student
+
+@{
+    ViewBag.Title = "Student Details";
+}
+
+<h2 class="text-center">Student Details</h2>
+
+<div class="container mt-4">
+    <h4>Student Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Class.ClassName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Class.ClassName)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+
+    <div class="text-center mt-4">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary me-2" })
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .container {
+        background-color: #ffffff;
+        border-radius: 0.5em;
+        padding: 2em;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    dt {
+        font-weight: bold;
+    }
+
+    h4 {
+        font-weight: 600;
+        color: #343a40;
+    }
+</style>

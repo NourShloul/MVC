@@ -1,0 +1,42 @@
+﻿@model MiniSchool.Models.Classes
+
+@{
+    ViewBag.Title = "Class Details";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">Class Details</h2>
+
+    <div>
+        <h4>Class Information</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ClassName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ClassName)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="mt-3">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ClassId }, new { @class = "btn btn-warning" }) |
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    h2 {
+        color: #343a40;
+        font-weight: 600;
+    }
+
+    .btn {
+        margin-right: 5px;
+    }
+</style>
